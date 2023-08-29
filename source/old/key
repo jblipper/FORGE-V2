@@ -1,0 +1,7 @@
+parameters[0]: estab_hum_a(maximum_human_birthrate)
+parameters[1]: fat_max_to_x_times_hum_bw
+parameters[2]: hum_bw(human_body_weight)
+parameters[3]: m_anabolism(anabolism)
+parameters[4]: m_catabolism(catabolism)
+parameters[5]: mort_ani(animal_death_rate)
+parameters[6]: mort_hum(background_human_death_rate)
